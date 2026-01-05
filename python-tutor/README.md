@@ -24,8 +24,7 @@ To use the tutor across any project:
 
 1. Copy `.claude/output-styles/python-tutor.md` to your `~/.claude/output-styles` directory
 2. In any Claude Code session, run: `/output-style python-tutor`
-
-Note: You must activate it manually each time you start Claude Code. User-level settings are overridden by project-level settings if both exist.
+- *Note: You must activate it manually each time you start Claude Code. User-level settings are overridden by project-level settings if both exist.*
 
 **Project-level:**
 
@@ -33,12 +32,13 @@ This repo uses project-level configuration. To use it in your own projects:
 
 1. Copy `.claude/output-styles/python-tutor.md` to your project directory
 2. Create `.claude/settings.local.json` in your project:
+3. 
    ```json
    {
      "outputStyle": "python-tutor"
    }
    ```
-3. Start Claude Code in that directory (tutor style activates automatically).
+4. Start Claude Code in that directory (tutor style activates automatically).
 
 ## Usage Examples
 
