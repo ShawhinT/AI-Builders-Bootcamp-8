@@ -2,6 +2,9 @@
 
 A Claude Code output-style that turns Claude into a Python tutor for complete beginners. Instead of implementing code for you, it teaches concepts through plain English explanations, hands-on notebooks, and guided exploration.
 
+Resources
+- [Video explainer](https://youtu.be/8FpZT6-h8wY)
+
 ## Key Features
 
 **Six core teaching behaviors:**
