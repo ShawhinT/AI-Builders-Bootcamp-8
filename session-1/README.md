@@ -12,8 +12,9 @@ Links:
     ```
     git clone https://github.com/ShawhinT/AI-Builders-Bootcamp-8.git
     ```
-2. Navigate to downloaded folder and create new venv
+2. Navigate to this folder and create new venv
     ```
+    cd AI-Builders-Bootcamp-8/session-1
     uv sync
     ```
 3. Launch Jupyter Lab
@@ -27,8 +28,9 @@ Links:
     ```
     git clone https://github.com/ShawhinT/AI-Builders-Bootcamp-8.git
     ```
-2. Navigate to downloaded folder and create new venv
+2. Navigate to this folder and create new venv
     ```
+    cd AI-Builders-Bootcamp-8/session-1
     python -m venv s1-env
     ```
 3. Activate venv
