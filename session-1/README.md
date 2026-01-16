@@ -2,7 +2,7 @@
 
 Links:
 - [Example: Scraping AI Job Board with Python](https://github.com/ShawhinT/AI-Builders-Bootcamp-8/blob/main/session-1/example-scrape_job_board.ipynb)
-- [Live Coding Examples]
+- [Live Coding Examples](https://github.com/ShawhinT/AI-Builders-Bootcamp-8/blob/main/session-1/live-coding-example)
 
 ## How to run the examples
 

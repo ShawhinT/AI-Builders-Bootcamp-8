@@ -1,0 +1,12 @@
+[project]
+name = "ai-job-scraper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "jupyterlab>=4.5.2",
+    "requests>=2.31.0",
+    "beautifulsoup4>=4.12.0",
+]
