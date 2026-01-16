@@ -3,6 +3,7 @@
 Links:
 - [Example: Scraping AI Job Board with Python](https://github.com/ShawhinT/AI-Builders-Bootcamp-8/blob/main/session-1/example-scrape_job_board.ipynb)
 - [Live Coding Examples](https://github.com/ShawhinT/AI-Builders-Bootcamp-8/blob/main/session-1/live-coding-example)
+- [ChatGPT](https://chatgpt.com/share/696a817e-9c10-8010-986d-5d5bb66d0d85) and [Claude Code](https://claude.ai/share/0351db1d-7b70-45f8-b1d9-ed5a0619a313) chats
 
 ## How to run the examples
 
