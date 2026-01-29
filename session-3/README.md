@@ -44,7 +44,7 @@ Links:
     ```
 4. Install dependencies
     ```
-    pip install -r requirements.txt
+    pip install -e .
     ```
 5. Launch Jupyter Lab
     ```
