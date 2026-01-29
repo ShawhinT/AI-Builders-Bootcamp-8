@@ -1,8 +1,8 @@
 # Session 3: RAG, Text Embeddings
 
 Links:
-- [Example 1: RAG with LlamaIndex](https://github.com/ShawhinT/AI-Builders-Bootcamp-8/blob/main/session-3/example_2-rag_with_llamaindex.ipynb)
-- [Example 2: Analyzing Unstructured Survey Data](https://github.com/ShawhinT/AI-Builders-Bootcamp-8/blob/main/session-3/example_1-unstructured_survey_analysis.ipynb)
+- [Example 1: RAG with LlamaIndex](https://github.com/ShawhinT/AI-Builders-Bootcamp-8/blob/main/session-3/example_1-rag_with_llamaindex.ipynb)
+- [Example 2: Analyzing Unstructured Survey Data](https://github.com/ShawhinT/AI-Builders-Bootcamp-8/blob/main/session-3/example_2-unstructured_survey_analysis.ipynb)
 
 
 ## How to run the examples
