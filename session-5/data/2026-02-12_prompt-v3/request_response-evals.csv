@@ -1,0 +1,31 @@
+index,no_banned_phrases,no_banned_phrases_details,no_tricolons,no_tricolons_details,em_dash_count,em_dash_count_details
+0,True,,False,"tricolon (comma-separated): 'focused role for steady pay, mentorship, and compounding experience'",True,em dash count: 0
+1,True,,False,"tricolon (comma-separated): 'Run experiments, keep them small and frequent, and let evidence write the roadmap'",True,em dash count: 1
+2,True,,True,,True,em dash count: 0
+3,True,,False,"tricolon (comma-separated): 'Coding assistant that writes boilerplate, explains errors, and suggests refactors'",True,em dash count: 0
+4,True,,False,"tricolon (comma-separated): 'act, reflect, and stop when success criteria are met'",True,em dash count: 0
+5,True,,False,"tricolon (comma-separated): 'Ship simple versions early, collect feedback, and iterate in public'",True,em dash count: 0
+6,True,,False,"tricolon (comma-separated): 'Pick one, ship it, and learn fast'",True,em dash count: 0
+7,True,,False,"tricolon (comma-separated): 'Grateful, energized, and just getting started'",True,em dash count: 0
+8,True,,False,"tricolon (comma-separated): 'RAG, AI agents, and fine'",True,em dash count: 0
+9,True,,False,"tricolon (comma-separated): 'Skills, judgment, and habits create the kind of wealth money simply mirrors'",True,em dash count: 0
+10,True,,True,,True,em dash count: 0
+11,True,,True,,True,em dash count: 0
+12,True,,False,"tricolon (comma-separated): 'set the scene, name the friction, and end with the outcome your work enables'",True,em dash count: 0
+13,True,,True,,True,em dash count: 0
+14,True,,False,"tricolon (comma-separated): 'daily to explain concepts, brainstorm ideas, and unblock yourself when you'",True,em dash count: 0
+15,True,,False,"tricolon (comma-separated): 'I cover how to frame the task, prepare and split your data, and choose a pretrained checkpoint'",True,em dash count: 0
+16,True,,False,"tricolon (comma-separated): 'Simple, dependable, and fast to iterate'",True,em dash count: 0
+17,True,,False,"tricolon (comma-separated): 'Short, practical, and focused on what actually matters'",True,em dash count: 0
+18,True,,True,,True,em dash count: 0
+19,True,,True,,True,em dash count: 0
+20,True,,False,"tricolon (comma-separated): 'I track each dollar by source, channel, and margin in a single sheet'",True,em dash count: 0
+21,True,,False,"tricolon (comma-separated): 'How many times I expect to run the project dictates the level of polish, tests, and documentation I invest'",True,em dash count: 0
+22,True,,True,,True,em dash count: 0
+23,True,,True,,True,em dash count: 0
+24,True,,True,,True,em dash count: 0
+25,True,,True,,True,em dash count: 0
+26,True,,True,,True,em dash count: 0
+27,True,,False,"tricolon (comma-separated): 'Use a single model that natively processes text, images, and audio for end'",True,em dash count: 0
+28,True,,False,"tricolon (comma-separated): 'Quality checks, failure cases, and simple fixes'",True,em dash count: 0
+29,True,,False,"tricolon (comma-separated): 'AI that sees, reads, and listens is finally usable at work'",True,em dash count: 0

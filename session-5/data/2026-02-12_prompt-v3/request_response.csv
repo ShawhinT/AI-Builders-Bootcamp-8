@@ -1,0 +1,532 @@
+User Input,LLM Output
+"5 ways to make money with your AI skills 
+- get a job 
+- implementation 
+- strategy/consulting 
+- education
+- product","AI skills can pay the bills.
+
+The trick is picking the path that fits your strengths and risk tolerance.
+
+Here are five ways to turn your skills into income.
+
+1) Get a job: Join a company in an AI-focused role for steady pay, mentorship, and compounding experience.
+
+2) Implementation: Build and integrate AI into real workflows for clients as a freelancer or agency, charging per project or retainer.
+
+3) Strategy/consulting: Diagnose problems, choose tools, design roadmaps, and track ROI so leaders can move with confidence.
+
+4) Education: Teach what you know through courses, workshops, or internal training and monetize via cohorts, licenses, or speaking.
+
+5) Product: Ship a small tool or SaaS, validate with paid pilots, then scale with subscriptions.
+
+Which path are you pursuing next?"
+"AI principles I know at 29, I wish I had known at 24.
+- Don't use AI
+- Focus on problems not tech
+- Spend more time on data curation
+- Data quality > data quantity
+- Run experiments","AI principles I know at 29, I wish I had known at 24.
+
+These would have saved me years of wheel-spinning and late-night rewrites.
+
+1) Don't use AI until you can clearly state the job it will do and how you'll measure success.
+
+2) Focus on problems, not tech, because sharp problem definitions make the right tools obvious.
+
+3) Spend more time on data curation since clean, representative datasets multiply model impact.
+
+4) Data quality > data quantity, because noise at scale is just bigger noise.
+
+5) Run experiments, keep them small and frequent, and let evidence write the roadmap.
+
+What would you add—or tell your younger self?"
+"Most top AI engineers aren’t more intelligent than you.
+They just do this one thing more… BUILD","Most top AI engineers aren’t more intelligent than you.
+
+They just do this one thing more… BUILD.
+
+1) Block one focused hour a day to build something small and ship by Friday.
+
+2) Clone a feature you use often to learn the tradeoffs behind it.
+
+3) Keep a public build log to create accountability and invite feedback.
+
+4) Scope tiny (one feature per session) to avoid rabbit holes and finish.
+
+5) Share a quick demo early with one specific question to guide the next iteration.
+
+What are you shipping this week?"
+"7 LLM use cases (have helped me avoid hiring people as a solopreneur)
+coding assistant
+Going from 0 to 1 on a new topic
+Writing copy
+Email outreach scripts
+ICP refinement
+Podcasts into blogs
+Creating peer groups for course","7 LLM use cases that helped me avoid hiring as a solopreneur.
+
+They save me hours each week and keep costs lean.
+
+Here are the tasks I offload to AI.
+
+1) Coding assistant that writes boilerplate, explains errors, and suggests refactors.
+
+2) Going from 0 to 1 on a new topic by generating a simple brief, key terms, and a short learning plan.
+
+3) Writing copy for landing pages, ads, and social posts with tone and length controls.
+
+4) Email outreach scripts that personalize intros, propose value, and draft follow-ups.
+
+5) ICP refinement by clustering customer notes, surfacing pains, and drafting persona snapshots.
+
+6) Turning podcasts into blogs by summarizing episodes, extracting quotes, and proposing outlines.
+
+7) Creating peer groups for a course by sorting applicants on goals, experience, and time zones.
+
+Which use case would you add?"
+By the end of this post you’ll be able to build your first AI agent,"By the end of this post you’ll be able to build your first AI agent.
+
+No PhD or fancy stack required.
+
+Just a clear goal and a few simple building blocks.
+
+1) Define a single, measurable mission for your agent (for example, ""summarize customer calls into action items"").
+
+2) Choose inputs and outputs that match the mission, like where data comes from and what artifact it must produce.
+
+3) Map a simple control loop: plan, act, reflect, and stop when success criteria are met.
+
+4) Give it tools with guardrails, starting with just one tool it can call and clear rules for when to use it.
+
+5) Test on three real tasks, track failures, and iterate by adjusting prompts, tools, and stop conditions before you add complexity.
+
+When that works, add memory for context and a lightweight scheduler so it can run without you watching it.
+
+Which step should I break down next?"
+My Journey from 0 to 70k (key lessons),"My journey from 0 to 70k came down to a few unsexy habits.
+
+Here are the five lessons I wish I had on day one.
+
+1) Consistency beats intensity, so pick a cadence you can sustain for a year.
+
+2) Talk to real people every week to validate direction and kill bad ideas fast.
+
+3) Ship simple versions early, collect feedback, and iterate in public.
+
+4) Focus on one channel until it clicks, then layer others to compound.
+
+5) Track leading indicators you control (inputs) instead of chasing vanity milestones.
+
+What lesson did you learn on your path from 0 to your first big milestone?"
+"5 AI projects you can build in (less than) an hour
+PDF Summarization tool
+Clustering customer reviews
+Document QA Chatbot
+YT comment sentiment analysis
+Gmail inbox categorization","5 AI projects you can build in (less than) an hour.
+
+Perfect for leveling up without blocking your whole weekend.
+
+Pick one, ship it, and learn fast.
+
+1) PDF summarization tool that lets you upload a file and get a concise summary for quick reading.
+
+2) Clustering customer reviews to group similar feedback and surface common themes.
+
+3) Document QA chatbot that answers questions from a set of docs so teammates find answers faster.
+
+4) YouTube comment sentiment analysis to flag positive, neutral, and negative reactions on new uploads.
+
+5) Gmail inbox categorization to sort messages into custom buckets and reduce manual triage.
+
+Which one should I break down step by step next?"
+50k subs YouTube milestone,"We just hit 50k YouTube subscribers.
+
+Grateful, energized, and just getting started.
+
+Thank you for watching, commenting, and sharing because this milestone belongs to you too.
+
+Here are 3 things that made this possible.
+
+1) Consistency over perfection.
+
+2) Listen to feedback, then simplify.
+
+3) Show the process, not just the results.
+
+What do you want to learn next on the channel?"
+"30 AI Projects You Can Build This Weekend (Free Guide)
+
+Covers Software 1.0 (Analysis & Data Pipelines), Software 2.0 (ML), Software 3.0 (Prompt Engineering, RAG, AI Agents, Fine-tuning)","30 AI Projects You Can Build This Weekend (Free Guide).
+
+From Software 1.0 to 3.0, I organized fast builds you can actually finish.
+
+The guide covers Software 1.0 (analysis and data pipelines), Software 2.0 (ML), and Software 3.0 (prompt engineering, RAG, AI agents, fine-tuning).
+
+Each project is designed for a weekend sprint so you can learn by building and end with something you can show.
+
+Perfect for sharpening skills, unblocking side projects, or energizing your team.
+
+1) Software 1.0: Analysis and data pipelines you can build quickly.
+
+2) Software 2.0: ML projects to practice core concepts and ship something tangible.
+
+3) Software 3.0: Prompt engineering, RAG, AI agents, and fine-tuning projects for modern AI workflows.
+
+Want the link to the free guide?"
+"Reminder: being rich isn’t about what’s in you bank account, but what’s in your mind… keep learning","Rich isn’t what’s in your bank account, it’s what’s in your mind.
+
+Skills, judgment, and habits create the kind of wealth money simply mirrors.
+
+Here are five ways to build a mindset that compounds.
+
+1) Read or learn for 30 minutes daily, then jot one takeaway to lock it in.
+
+2) Build a skill stack by combining strengths (writing + analytics, design + sales) to increase your leverage.
+
+3) Turn curiosity into small projects that ship, because finished work beats ideas.
+
+4) Ask for feedback from people ahead of you, and treat critiques like free consulting.
+
+5) Teach what you learn in public, since teaching multiplies understanding and opportunities.
+
+Money comes and goes, but a learning engine keeps paying.
+
+What are you learning this month to upgrade your mind?"
+"A problem with AI today is that it means different things to different people. Share 3 types of software.
+
+Software 1.0 = Rule-based systems
+Software 2.0 = ML
+Software 3.0 = LLMs","AI means different things to different people.
+
+Here’s a simple map to keep conversations clear.
+
+1) Software 1.0 = Rule-based systems where humans write explicit rules, great for stable, well-defined tasks.
+
+2) Software 2.0 = ML that learns patterns from data, useful when examples exist and outcomes can be measured.
+
+3) Software 3.0 = LLMs that start from pretrained models and are steered with prompts, flexible across tasks but probabilistic.
+
+When you say “AI” on your team, which of these three are you talking about?"
+"Share blog: 5 Ai projects you can build this weekend (with python)
+
+Automated Bday message emailer
+Arrive AI paper retriever
+Resume matcher
+Automated DocString Writer
+YT video to blog converter","Got a free weekend and Python installed?
+
+Here are 5 AI projects you can build this weekend with Python.
+
+1) Automated Bday message emailer that sends a friendly note on the right day.
+
+2) Arrive AI paper retriever that pulls recent research on a topic and compiles the key abstracts.
+
+3) Resume matcher that scores a resume against a job description and flags gaps to improve.
+
+4) Automated DocString Writer that generates clear docstrings for your Python functions.
+
+5) YT video to blog converter that turns a video into a clean draft you can edit and publish.
+
+Blog link in the comments."
+"3 communication tips for data scientists.
+use stories
+Use examples
+Use analogies","Your model can be accurate, but if your message is muddy, it will stall.
+
+Here are 3 communication tips for data scientists that make ideas stick.
+
+They all do the same job: turn abstract insights into moments people can see.
+
+1) Tell a short story: set the scene, name the friction, and end with the outcome your work enables.
+
+2) Use concrete examples: swap vague claims for a specific user, moment, and result they would notice.
+
+3) Lean on analogies: map the unfamiliar to the familiar so nontechnical partners get it fast (e.g., a pipeline is a factory line for data).
+
+Which one will you try in your next update to stakeholders?"
+Share video: Fine-tuning LLMs with MLX,"Fine-tuning LLMs feels complex until you see it step by step.
+
+I just published a short video walking through it with MLX.
+
+In the video, I cover the essentials without the noise.
+
+1) What to prepare before you start.
+
+2) How to structure your data.
+
+3) The fine-tuning workflow from start to finish.
+
+4) Simple ways to validate results and iterate.
+
+Watch here (link in comments)."
+"How I’d learn AI in 2025 (if I knew nothing)
+Use ChatGPT (or the like)
+Install Python
+Build an Automation (Beginner) 
+Build an ML Project (Intermediate)
+Build a Real-world Project (Advanced)","How I’d learn AI in 2025 if I knew nothing.
+
+Skip the noise and build real skills step by step.
+
+Here’s the five-step ladder I’d climb.
+
+1) Use ChatGPT (or similar) daily to explain concepts, brainstorm ideas, and unblock yourself when you’re stuck.
+
+2) Install Python and get comfortable running scripts, reading error messages, and practicing basics until it feels natural.
+
+3) Build an Automation (Beginner) by tackling a small repetitive task in your life or work and making it run with one click.
+
+4) Build an ML Project (Intermediate) by picking a clear problem, using a modest dataset, training a simple model, and evaluating what helps or hurts performance.
+
+5) Build a Real-world Project (Advanced) that solves a real user need end to end with data collection, deployment, feedback loops, and iteration.
+
+Repeat consistently, write down what works, and keep scope small so you can ship.
+
+Which step would be most helpful for you right now?"
+Share blog: fine-tuning Bert for text classification,"Fine-tuning BERT for text classification doesn’t have to feel like a black box.
+
+I wrote a clear, step-by-step blog that takes you from dataset to a working classifier.
+
+Inside, I cover how to frame the task, prepare and split your data, and choose a pretrained checkpoint.
+
+I walk through training and validation while calling out common pitfalls to avoid.
+
+You’ll also see how to evaluate performance and interpret the outputs in plain language.
+
+If you’re new to transformer fine-tuning or want a quick refresher, this guide is for you.
+
+What question about BERT fine-tuning should I tackle next?"
+"My 2025 AI Tech Stack
+Python
+Jupyter lab
+Cursor
+ChatGPT 
+OpenAI API 
+Hugging Face
+Sentence transformers 
+GitHub","Here’s my 2025 AI tech stack in four pieces.
+
+Simple, dependable, and fast to iterate.
+
+1) Build environment: Python, JupyterLab, Cursor.
+
+2) Reasoning and copilots: ChatGPT.
+
+3) Models and APIs: OpenAI API, Hugging Face, Sentence Transformers.
+
+4) Shipping and collaboration: GitHub.
+
+What would you add or swap for 2025?"
+Share blog: Python QuickStart for People Learning AI ,"Learning AI but stuck on the Python part?
+
+I put together a quickstart guide made for beginners coming from the AI side.
+
+Short, practical, and focused on what actually matters.
+
+It cuts the noise and gives you a simple path so you can make progress without drowning in tutorials.
+
+Here is what you will find helpful.
+
+1) What to focus on first.
+
+2) How to practice without getting overwhelmed.
+
+3) Common pitfalls beginners hit and how to avoid them.
+
+4) A clear next step to keep momentum.
+
+It is written for people learning Python specifically to build with AI, not to become general-purpose developers.
+
+What was the hardest part of learning Python for AI when you were starting out?"
+Share GitHub repo: free LLM course. P.S. Shoutout upcoming AI Builders Cohort,"Free LLM course on GitHub for anyone ready to dive in.
+
+I pulled my best lessons and resources into one repo so you can follow a clear path without hunting all over the internet.
+
+P.S. Shoutout to the upcoming AI Builders Cohort if you prefer a live, guided experience.
+
+Want the GitHub link to the course?"
+"I paid a $100k/mo entrepreneur to talk to me… here’s what I learned.
+Customer pain points over your experience and skills
+Price for value not time
+Higher price tag, longer copy (delay the ask)
+Get hyper-clear on avatar then attract them with free content
+The diff between $10k and $100k/mo is often business strategy, not tech skills","I paid a $100k/mo entrepreneur to talk to me… here’s what I learned.
+
+Five takeaways that changed how I think about growth.
+
+1) Lead with customer pain points, not your experience and skills.
+
+2) Price for value, not time.
+
+3) With higher price tags, use longer copy and delay the ask.
+
+4) Get hyper-clear on your avatar, then attract them with free content.
+
+5) The difference between $10k and $100k per month is often business strategy, not tech skills.
+
+Which one resonates most with you right now?"
+Breaking down my first $10k month (as an entrepreneur). Revenue sources and breakdown,"I just hit my first $10k month as an entrepreneur.
+
+Here’s the high-level breakdown and the simple system behind it.
+
+I group revenue into three repeatable buckets so I can see what is working at a glance.
+
+1) Core offer (retainers or packages) that creates a predictable base.
+
+2) Productized add-ons that turn small asks into quick wins.
+
+3) Opportunistic one-offs or partnerships that I celebrate but do not depend on.
+
+I track each dollar by source, channel, and margin in a single sheet.
+
+Mid-month I review pricing, cut the lowest-margin work, and double down on what is converting.
+
+I schedule delivery blocks first, then use leftover time for pipeline and content to keep the momentum going.
+
+The goal is a stable base from the core, plus small, high-margin wins that stack without burning out.
+
+Want the simple tracker I use to monitor sources and margins?"
+Managing technical debt when coding with AI. 2 things I consider. 1) my experience with the lang/library and 2) how many times I need to run project.,"AI helps you ship faster, but it can also bury you in technical debt.
+
+Before I accept any AI-generated code, I run it through a two-question filter.
+
+1) My experience with the language or library determines how much I trust the pattern and how aggressively I simplify it.
+
+2) How many times I expect to run the project dictates the level of polish, tests, and documentation I invest.
+
+If I’m new to the stack, I favor explicit code, small functions, and well-known patterns because I know I’ll be debugging more.
+
+If it’s a one-off, I let AI be a little verbose and skip deep refactors to save time.
+
+If it’s a recurring workflow or something customer-facing, I refactor, document decisions, and add a minimal test to keep future debt low.
+
+What do you weigh before merging AI-generated code?"
+"Share blog: compressing LLMs.
+
+Snippet: While the immense scale of LLMs is responsible for their impressive performance across a wide range of use cases, this presents challenges in their application to real-world problems. In this article, I discuss how we can overcome these challenges by compressing LLMs. I start with a high-level overview of key concepts and then walk through a concrete example with Python code.","LLMs are powerful, but their size can make real-world deployment painful.
+
+I wrote a clear guide on compressing them so they’re easier to run and afford.
+
+It starts with a high-level overview of the key concepts behind compression.
+
+Then I walk through a concrete example with Python code to make it tangible.
+
+If you’re exploring smaller footprints for production, this will help you move faster.
+
+Want the link?"
+Share video: multimodal LLMs. Using Llama 3.2 Vision to do CV,"Multimodal LLMs aren’t just hype anymore.
+
+Here’s how I’m using Llama 3.2 Vision for computer vision.
+
+In this video, I unpack what multimodality means and why it changes how we approach images.
+
+I walk through a simple workflow with Llama 3.2 Vision and highlight where it shines for real-world CV.
+
+You’ll see a quick demo and hear practical considerations on when to use it versus traditional approaches.
+
+If you are exploring AI for CV, this will help you get oriented quickly.
+
+Watch the video here: [link]"
+Share GitHub repo: free AI agents course.,"Free AI agents course on GitHub.
+
+Built for builders and free for everyone.
+
+I put together a course to help you learn the fundamentals of agents at your own pace.
+
+It keeps things practical and clear so you can move from concepts to application without getting lost.
+
+Everything lives in a single repo and will keep evolving with your feedback.
+
+Whether you're just starting or leveling up, this is a clean starting point you can actually finish.
+
+Want the GitHub link?"
+"Share blog: Local LLM fine-tuning on Mac
+
+Context:
+This article is part of a larger series on using large language models (LLMs) in practice. In a previous post, I showed how to fine-tune an LLM using a single (free) GPU on Google Colab. While that example (and many others) readily runs on Nvidia hardware, they are not easily adapted to M-series Macs. In this article, I walk through an easy way to fine-tune an LLM locally on a Mac.","You don't need an Nvidia GPU to fine-tune an LLM anymore.
+
+I just published a step-by-step guide to local LLM fine-tuning on M-series Macs.
+
+This article is part of my practical LLM series and builds on my earlier Colab fine-tuning post.
+
+In this Mac-focused walkthrough, I cover the essentials so you can get results without wrestling with tooling.
+
+1) Setup on Apple silicon so you can run locally with minimal friction.
+
+2) Simple data preparation and configuration choices that keep the process approachable.
+
+3) A clear end-to-end flow from first run to a usable fine-tuned model on your machine.
+
+4) Common Mac-specific pitfalls and how to avoid them.
+
+If you've struggled to adapt Nvidia-focused tutorials, this guide shows an easier path on Apple silicon.
+
+What’s the biggest blocker you’ve hit when trying to fine-tune on a Mac?"
+"Book share.
+Super Study Guide: Transformers & Large Language Models.
+Building LLMs for Production is a LLM practitioner’s guidebook.","Book share for anyone working with Transformers and LLMs.
+
+Super Study Guide: Transformers & Large Language Models is a clear companion for mastering the fundamentals.
+
+Building LLMs for Production is a practitioner’s guidebook for real-world use.
+
+Read them together for a strong foundation and practical next steps.
+
+Which one would you start with, and why?"
+"Share blog: multimodal models. 3 ways to make LLMs multimodal.
+LLM + Tools
+LLM + Adapters
+Unified Models","Most teams think “multimodal” means retraining everything, but you have options.
+
+Here are three simple ways to make LLMs multimodal depending on your goals.
+
+1) LLM + Tools: Keep the base model focused on language while external tools handle perception or actions.
+
+2) LLM + Adapters: Add lightweight encoders and decoders so the LLM can read and write other modalities while reusing your existing stack.
+
+3) Unified Models: Use a single model that natively processes text, images, and audio for end-to-end reasoning and generation.
+
+Quick take: Tools are fastest to ship, adapters are a balanced middle, unified models offer the most capability if you can handle the complexity.
+
+Which path are you betting on this year, and why?"
+"Share blog: fine-tuning FLUX.1 on my face!
+
+Context:
+Although large language models (LLMs) seem to get all the attention these days, image-generation models have been advancing just as rapidly. The current state-of-the-art is FLUX.1, an image model from Black Forest Labs (a faction from the Stable Diffusion team). In this article, I share the full process I used for fine-tuning this model to generate unlimited high-quality photos of myself.","LLMs are loud, but image models are quietly catching up fast.
+
+I just fine-tuned FLUX.1 to generate unlimited high-quality photos of my face.
+
+In the blog, I walk through the full process from idea to shareable results.
+
+1) How I curated the data and set expectations.
+
+2) The fine-tuning approach on FLUX.1 and the tradeoffs I considered.
+
+3) My prompting patterns to get consistent, flattering outputs.
+
+4) Quality checks, failure cases, and simple fixes.
+
+5) Practical notes on ethics, privacy, and when this approach makes sense.
+
+If you want a clear, start-to-finish walkthrough, you’ll find it useful.
+
+Read it here (link in comments)."
+Share blog: multimodal embeddings,"AI that sees, reads, and listens is finally usable at work.
+
+Multimodal embeddings make this possible across formats.
+
+At a high level, they connect text, images, audio, and video so you can compare and retrieve them together.
+
+1) Search across formats, like finding the right image from a sentence.
+
+2) Recommendations that combine signals from text and visuals.
+
+3) Faster tagging, clustering, and deduplication across content types.
+
+I just published a blog on multimodal embeddings.
+
+Full blog in the comments.
+
+What use case are you most excited to unlock with multimodal embeddings?"

@@ -1,0 +1,31 @@
+index,no_banned_phrases,no_banned_phrases_details,no_tricolons,no_tricolons_details,em_dash_count,em_dash_count_details
+0,True,,False,"tricolon (comma-separated): 'ROI use cases, creating roadmaps, and upskilling teams with clear governance'",False,em dash count: 2
+1,True,,True,,True,em dash count: 0
+2,True,,False,"tricolon (comma-separated): 'Ship every Friday with a demo link, a README, and one lesson you learned'",True,em dash count: 0
+3,True,,False,"tricolon (comma-separated): 'it scaffolds features, explains errors, and writes tests for edge cases'",True,em dash count: 0
+4,True,,False,"tricolon (comma-separated): 'picks a tool, receives an observation, and repeats until it hits done criteria or max_steps'",True,em dash count: 1
+5,False,found: 'no hacks',False,"tricolon (comma-separated): 'with screenshots, numbers, and behind'",True,em dash count: 1
+6,True,,False,"tricolon (comma-separated): 'chunk with LangChain, summarize with an LLM, and ship a Streamlit UI'",True,em dash count: 0
+7,True,,False,"tricolon (comma-separated): 'commenting, sharing, and holding me accountable to make better videos every week'",True,em dash count: 0
+8,True,,False,"tricolon (comma-separated): 'a demand forecaster, a fast API for model serving, and a lightweight MLOps workflow with evals'",True,em dash count: 0
+9,True,,False,"tricolon (comma-separated): 'Every book, course, and conversation is an asset that pays lifelong dividends'",True,em dash count: 0
+10,True,,False,"tricolon (comma-separated): 'models generate text, code, and actions in natural language and are steered with prompts'",True,em dash count: 0
+11,True,,False,"tricolon (comma-separated): 'read contacts from a CSV, generate a warm note with an LLM, and send via Gmail API or smtplib on a cron schedule'",True,em dash count: 1
+12,True,,True,,True,em dash count: 0
+13,True,,False,"tricolon (comma-separated): 'We cover choosing a base model, prepping a dataset, and running LoRA fine'",True,em dash count: 0
+14,True,,False,"tricolon (comma-separated): 'Simple, practical, and designed for momentum'",True,em dash count: 1
+15,True,,False,"tricolon (comma-separated): 'I cover data cleaning, label mapping, and stratified splits'",True,em dash count: 0
+16,True,,False,"tricolon (comma-separated): 'the glue for data wrangling, automation, and quick prototypes'",True,em dash count: 0
+17,True,,False,"tricolon (comma-separated): 'pandas, matplotlib, and scikit'",True,em dash count: 0
+18,True,,False,"tricolon (comma-separated): 'built from my notes, talks, and real projects'",True,em dash count: 1
+19,True,,False,"tricolon (newline-separated): 'Here are the five shifts that changed how I build and sell. / Lead with customer pain, not your resume. / Price the outcome, not the hours.'",True,em dash count: 0
+20,True,,False,"tricolon (comma-separated): 'recurring revenue kept the floor high, small bets stacked, and distribution beat perfection'",True,em dash count: 0
+21,True,,False,"tricolon (comma-separated): 'minimize dependencies, prefer standard library, and request clear comments and docstrings'",True,em dash count: 0
+22,True,,False,"tricolon (comma-separated): 'I wrote a guide on compressing LLMs so you can ship faster, cheaper, and with smaller footprints'",True,em dash count: 0
+23,True,,False,"tricolon (comma-separated): 'classification, OCR on receipts, and chart or slide analysis'",True,em dash count: 1
+24,True,,False,"tricolon (comma-separated): 'just code, explanations, and real'",True,em dash count: 1
+25,True,,False,"tricolon (comma-separated): 'step guide for M1, M2, and M3 machines'",True,em dash count: 0
+26,True,,False,"tricolon (comma-separated): 'Large Language Models distills the core ideas behind attention, tokenization, and training into clear visuals and plain'",True,em dash count: 0
+27,True,,False,"tricolon (comma-separated): 'speech, search, and action APIs'",True,em dash count: 0
+28,True,,False,"tricolon (comma-separated): 'I cover how I built the training set, cleaned it, and captioned it for best results'",True,em dash count: 1
+29,False,found: 'no‑fluff',False,"tricolon (comma-separated): 'fluff guide that shows how to use them to connect text, images, and audio'",True,em dash count: 1

@@ -1,0 +1,34 @@
+index,no_banned_phrases,no_banned_phrases_details,no_tricolons,no_tricolons_details,em_dash_count,em_dash_count_details
+0,True,,False,"tricolon (comma-separated): 'targeted apps via YC Jobs, Wellfound, and niche Slack'",True,em dash count: 0
+1,True,,False,"tricolon (comma-separated): 'not tech
+Define a painful problem, constraints, and a target metric'",False,em dash count: 2
+2,True,,True,,True,em dash count: 0
+3,True,,False,"tricolon (comma-separated): 'refactor, write tests, and debug'",True,em dash count: 0
+4,True,,False,"tricolon (newline-separated): 'import json, math / client = OpenAI() / # Tools'",True,em dash count: 0
+5,True,,False,tricolon (period-separated): 'From 0 to 70k on LinkedIn. No ads. No pods.',True,em dash count: 0
+6,True,,True,,True,em dash count: 0
+7,True,,False,"tricolon (comma-separated): 'This channel started as an experiment and turned into a compounding engine for learning, connection, and impact'",True,em dash count: 1
+8,False,found: 'no fluff',False,"tricolon (comma-separated): 'Clear scopes, starter stacks, and datasets'",True,em dash count: 1
+9,True,,True,,False,em dash count: 2
+10,True,,False,"tricolon (comma-separated): 'You steer pretrained models with prompts, tools, and retrieval'",False,em dash count: 4
+11,True,,False,"tricolon (comma-separated): 'Notion, generate personalized notes, and send via Gmail'",True,em dash count: 0
+12,True,,False,"tricolon (comma-separated): 'Numbers should be round, relatable, and tied to money'",True,em dash count: 0
+13,True,,False,"tricolon (comma-separated): 'prompt templates, tokenization, and JSONL formatting'",True,em dash count: 1
+14,False,found: 'no fluff',False,"tricolon (comma-separated): 'prompt that quizzes you, explains concepts, and reviews code with a rubric'",True,em dash count: 0
+15,True,,False,"tricolon (comma-separated): 'fast, reliable, and production'",True,em dash count: 1
+16,True,,False,"tricolon (comma-separated): 'Data wrangling, evals, and shipping small services'",True,em dash count: 0
+17,True,,True,,True,em dash count: 0
+18,False,found: 'no fluff',False,"tricolon (comma-separated): 'Starter code, notebooks, and worksheets
+
+Grab it here'",True,em dash count: 0
+19,True,,False,"tricolon (comma-separated): 'Share case studies, FAQs, and proof'",True,em dash count: 1
+20,True,,False,"tricolon (comma-separated): 'sources, margins, and what I'",False,em dash count: 10
+21,True,,False,"tricolon (comma-separated): 'Require docstrings, comments, and minimal dependencies'",True,em dash count: 1
+22,True,,False,"tricolon (comma-separated): 'cold starts, edge constraints, and your cloud bill'",True,em dash count: 0
+23,True,,False,"tricolon (comma-separated): 'describe, classify, and extract structured JSON'",True,em dash count: 1
+24,True,,True,,True,em dash count: 0
+25,True,,False,"tricolon (comma-separated): 'Running training, monitoring memory, and troubleshooting common Mac'",False,em dash count: 2
+26,True,,False,"tricolon (comma-separated): 'deduping, labeling, and synthetic data do'",False,em dash count: 2
+27,True,,True,,True,em dash count: 0
+28,True,,False,"tricolon (comma-separated): 'Colab notebook, prompt templates, and before'",True,em dash count: 1
+29,True,,False,"tricolon (comma-separated): 'prompt templates for consistency, normalization, and unit handling'",False,em dash count: 2
