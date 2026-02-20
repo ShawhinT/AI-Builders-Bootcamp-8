@@ -7,7 +7,7 @@ import csv
 from datetime import datetime
 
 # define prompt path
-prompt_path = "prompts/prompt-v3"
+prompt_path = "prompts/prompt-v2"
 
 # connect to openai API
 load_dotenv()
